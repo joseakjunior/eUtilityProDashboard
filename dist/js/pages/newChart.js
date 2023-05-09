@@ -62,6 +62,18 @@ $(function () {
           // pointHoverBorderColor    : '#ced4da'
         },
         {
+            type: 'line',
+            data: [22, 54, 70, 43, 80, 12, 100],
+            backgroundColor: 'tansparent',
+            borderColor: '#ececec',
+            pointBorderColor: '#ececec',
+            pointBackgroundColor: '#ececec',
+            fill: false
+            // pointHoverBackgroundColor: '#ced4da',
+            // pointHoverBorderColor    : '#ced4da'
+          },
+          
+        {
           type: 'line',
           data: [60, 53, 70, 35, 27, 66, 27],
           backgroundColor: 'tansparent',
