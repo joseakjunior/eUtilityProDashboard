@@ -16,7 +16,7 @@ $(function () {
     // eslint-disable-next-line no-unused-vars
     var visitorsChart = new Chart($visitorsChart, {
       data: {
-        labels: ['Swakopmund', 'Walvisbay', 'Henties Bay', 'Arandis', 'Omaruru'],
+        labels: ['Swakopmund', 'Walvisbay', 'Henties Bay', 'Arandis', 'Omaruru','Karibib','Usakos'],
         datasets: [{
           type: 'line',
           data: [100, 120, 170, 167, 180, 177, 160],
@@ -58,8 +58,8 @@ $(function () {
           pointBorderColor: 'green',
           pointBackgroundColor: 'green',
           fill: false
-          // pointHoverBackgroundColor: '#ced4da',
-          // pointHoverBorderColor    : '#ced4da'
+          //pointHoverBackgroundColor: '#ced4da',
+          //pointHoverBorderColor    : '#ced4da'
         },
         {
             type: 'line',
