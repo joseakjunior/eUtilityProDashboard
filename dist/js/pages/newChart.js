@@ -21,9 +21,9 @@ $(function () {
           type: 'line',
           data: [100, 120, 170, 167, 180, 177, 160],
           backgroundColor: 'transparent',
-          borderColor: '#007bff',
-          pointBorderColor: '#007bff',
-          pointBackgroundColor: '#007bff',
+          borderColor: 'red',
+          pointBorderColor: 'red',
+          pointBackgroundColor: 'red',
           fill: false
           // pointHoverBackgroundColor: '#007bff',
           // pointHoverBorderColor    : '#007bff'
@@ -32,9 +32,9 @@ $(function () {
           type: 'line',
           data: [43, 23, 63, 15, 32, 44, 21],
           backgroundColor: 'tansparent',
-          borderColor: '#ced4da',
-          pointBorderColor: '#ced4da',
-          pointBackgroundColor: '#ced4da',
+          borderColor: 'gray',
+          pointBorderColor: 'gray',
+          pointBackgroundColor: 'gray',
           fill: false
           // pointHoverBackgroundColor: '#ced4da',
           // pointHoverBorderColor    : '#ced4da'
