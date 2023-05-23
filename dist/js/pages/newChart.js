@@ -83,7 +83,18 @@ $(function () {
           fill: false
           // pointHoverBackgroundColor: '#ced4da',
           // pointHoverBorderColor    : '#ced4da'
-        }
+        },
+		{
+            type: 'line',
+            data: [80, 70, 100, 73, 90, 60, 100],
+            backgroundColor: 'tansparent',
+            borderColor: 'blue',
+            pointBorderColor: 'blue',
+            pointBackgroundColor: 'blue',
+            fill: false
+            // pointHoverBackgroundColor: '#ced4da',
+            // pointHoverBorderColor    : '#ced4da'
+          },
     ]
         
       },
