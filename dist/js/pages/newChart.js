@@ -43,9 +43,9 @@ $(function () {
           type: 'line',
           data: [60, 80, 70, 67, 80, 77, 100],
           backgroundColor: 'tansparent',
-          borderColor: '#ce4de4e',
-          pointBorderColor: '#ce4de4e',
-          pointBackgroundColor: '#ce4de4e',
+          borderColor: 'yellow',
+          pointBorderColor: 'yellow',
+          pointBackgroundColor: 'yellow',
           fill: false
           // pointHoverBackgroundColor: '#ced4da',
           // pointHoverBorderColor    : '#ced4da'
@@ -54,9 +54,9 @@ $(function () {
           type: 'line',
           data: [22, 54, 70, 43, 80, 12, 100],
           backgroundColor: 'tansparent',
-          borderColor: '#ced4da',
-          pointBorderColor: '#ced4da',
-          pointBackgroundColor: '#ced4da',
+          borderColor: 'green',
+          pointBorderColor: 'green',
+          pointBackgroundColor: 'green',
           fill: false
           // pointHoverBackgroundColor: '#ced4da',
           // pointHoverBorderColor    : '#ced4da'
@@ -65,9 +65,9 @@ $(function () {
             type: 'line',
             data: [22, 54, 70, 43, 80, 12, 100],
             backgroundColor: 'tansparent',
-            borderColor: '#ececec',
-            pointBorderColor: '#ececec',
-            pointBackgroundColor: '#ececec',
+            borderColor: 'orange',
+            pointBorderColor: 'orange',
+            pointBackgroundColor: 'orange',
             fill: false
             // pointHoverBackgroundColor: '#ced4da',
             // pointHoverBorderColor    : '#ced4da'
@@ -77,9 +77,9 @@ $(function () {
           type: 'line',
           data: [60, 53, 70, 35, 27, 66, 27],
           backgroundColor: 'tansparent',
-          borderColor: '#ced4da',
-          pointBorderColor: '#ced4da',
-          pointBackgroundColor: '#ced4da',
+          borderColor: 'purple',
+          pointBorderColor: 'purple',
+          pointBackgroundColor: 'purple',
           fill: false
           // pointHoverBackgroundColor: '#ced4da',
           // pointHoverBorderColor    : '#ced4da'
